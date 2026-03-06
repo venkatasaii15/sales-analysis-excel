@@ -25,3 +25,7 @@ Business recommendation: The company should review discount policies and operati
 4. Seasonal Sales Trends
 Sales fluctuate across months, with certain periods showing higher demand.
 Business recommendation: Businesses should plan inventory and marketing campaigns around peak sales periods
+
+5. Customer Contribution Analysis
+A small group of customers contributes significantly to overall sales.
+Business recommendation: Implement loyalty programs and targeted marketing campaigns to retain high-value customers
