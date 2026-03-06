@@ -11,7 +11,7 @@ Skills Used:
 Key Business Insights
 
 1. High Revenue Product Category
-The Technology category generated the highest sales revenue compared to other categories.This indicates strong customer demand for technology products.
+The Technology category generated the highest sales revenue among the categories. This indicates strong customer demand for technology products.
 Business recommendation: The company should prioritise marketing and inventory planning for high-performing categories to maximise revenue.
 
 2. Regional Sales Performance
@@ -23,5 +23,5 @@ Some products generate high sales but lower profit margins, which may indicate h
 Business recommendation: The company should review discount policies and operational costs to improve profitability.
 
 4. Seasonal Sales Trends
-Sales show fluctuations across different months, with certain periods showing higher demand.
+Sales fluctuate across months, with certain periods showing higher demand.
 Business recommendation: Businesses should plan inventory and marketing campaigns around peak sales periods
